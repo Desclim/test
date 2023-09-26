@@ -1,0 +1,143 @@
+body {
+    margin: 0 auto;
+}
+
+.mainNav {
+    margin-left: 371px;
+    margin-top: -56px;
+}
+
+.mainLogo {
+    margin-top: 22px;
+    margin-left: 49px;
+}
+
+.mainNavTextPadding {
+    padding-left: 36px;
+}
+
+.mainLogoAndNav {
+    width: 1440px;
+    height: 134px;
+}
+
+.mainBanner {
+    background-image: url("file:///C:/Users/Desclim/Desktop/test/newPage/img/pexels-pixabay-372470%201.svg");
+    background-repeat:no-repeat;
+    width: 1445px;
+    height: 939px;
+    margin-top: 22px;
+
+}
+
+li {
+    list-style-type: none;
+}
+
+ul {
+    margin-left: 0;
+    padding-left: 0;
+}
+
+.firstTextMainBanner {
+    color: #FFF;
+    font-family: Unna;
+    font-size: 62px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 74.5px; /* 120.161% */
+/* здесь есть косяк */
+}
+
+.secondTextMainBanner {
+    color: #FFF;
+    font-family: PT Serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 59px; /* 163.889% */
+    padding-top: 42px;
+}
+
+.textMainBanner {
+    padding-top: 171px;
+    padding-left: 700px;
+}
+
+.mainBannerButton {
+    padding-left: 714px;
+    padding-top: 147px;
+}
+
+.moreAboutUsBlock {
+    width: 393px;
+    height: 456px;
+    margin-top: -150px;
+    margin-left: 222px;
+    position: relative;
+
+}
+
+.moreAboutUsWelcome {
+    color: #009CC4;
+    font-family: Montserrat;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16.183px; /* 147.114% */
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+}
+
+.moreAboutUsMainText {
+    color: #313335;
+    font-family: Unna;
+    font-size: 52px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 48.944px; /* 94.123% */
+    padding-top: 14px;
+}
+
+.moreAboutUsInfoText {
+    padding-top: 38px;
+}
+
+.moreAboutUsInfoTextMain {
+    color: #808080;
+    font-family: PT Serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22.4px; /* 160% */
+    padding-left: 44px;
+    display: inline-block;
+    height: 66px;
+    border-left: 2px solid #009CC4;
+}
+
+.moreAboutUsText {
+    color:#009CC4;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 18px; /* 150% */
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    padding: 19px 27px 18px 27px;
+}
+
+.moreAboutUsTextBorder {
+    margin-top: 69px;
+    display: inline-block;
+    width: 197px;
+    height: 55px;
+    border: 1px solid #009CC4;
+}
+
+.moreAboutUsImage {
+    width: 529px;
+    height: 420px;
+    position:absolute; right: -731px; top: 0
+}
